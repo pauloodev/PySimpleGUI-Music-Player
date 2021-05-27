@@ -1,11 +1,12 @@
 # PySimpleGUI Music Player
-Um player de música feito 100% em python e PySimpleGUI
+A simple music player made 100% in Python and PySimpleGUI.
 
-![Music Player](https://i.ibb.co/v38GPKX/Screenshot-5.png)
+This project is a Fork created by me. See the original project [here](https://github.com/devaprender/PySimpleGUI-Music-Player).<br/>
+_Subscribe to this channel to continue learning [Dev Aprender](https://www.youtube.com/channel/UCm63tB8wsKOVvxoU4iMpS2A)_
 
-# Como usar(How to use)
+# Demo: (How to use)
 
-1. Baixe o projeto e instale as seguintes dependências que estão em requirements.txt(pip install requirements.txt)
-2. Rode o programa (python app.py) e escolha a pasta onde suas músicas estão
+- Download the project and install the following dependencies that are in requirements.txt (pip install requirements.txt).
+- Run the program (python app.py) and choose the folder where your music is.
 
-# Continue aprendendo, [se increvendo aqui](https://www.youtube.com/c/DevAprender?sub_confirmation=1)
+<img height="600" src="https://i.imgur.com/2EW4Xli.png"/>
